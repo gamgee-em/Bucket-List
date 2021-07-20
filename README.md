@@ -14,13 +14,13 @@ Full Stack application that allows the user to manage a bucketlist and add prior
 * [Contact Information](#questions)
 * [Demo](#demo)
 ## __Dependencies__
-    node.js / npm / morgan / nodemon / express JS / mongoJS / mongoose / indexedDB API
+    node.js / npm / react 
 ## __Tests__
     No tests provided.
 ## __Installation__
     npm i
 ## __Usage__
-Open the CL / clone directory to local client / cd into the Directory where server.js is located.
+Open the CL / clone directory to local client / cd into the react-app Directory.
 
 * Install dependencies. Run Command
     
